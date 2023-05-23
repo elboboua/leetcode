@@ -3,7 +3,7 @@
 Following the neetcode practice problem tree
 
 ## Arrays and Hashing
-- [ ] Contains Duplicate
+- [x] Contains Duplicate
 - [ ] Valid Anagram
 - [ ] Two Sum
 - [ ] Group Anagrams
