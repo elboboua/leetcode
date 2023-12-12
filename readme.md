@@ -2,7 +2,7 @@
 
 Following the neetcode practice problem tree
 
-## Arrays and Hashing
+## Problems
 
 -   [x] 217 Contains Duplicate
 -   [x] 242 Valid Anagram
